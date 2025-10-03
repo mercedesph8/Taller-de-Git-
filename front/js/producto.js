@@ -7,6 +7,7 @@ let producto = {
     color:"negro",
 }
 
+//Practica
 
 let nombre=document.getElementById("nombre");
 nombre.innerHTML=producto.nombre;
