@@ -9,6 +9,7 @@ let producto = {
 
 //Practica
 
+
 let nombre=document.getElementById("nombre");
 nombre.innerHTML=producto.nombre;
 
